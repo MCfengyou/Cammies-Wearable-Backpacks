@@ -1,56 +1,56 @@
 {
 	// 信息
-	"info.camsbackpacks.instructions"： "1) Take off Elytra/Chestplate.\n2) Place Backpack on ground.\n3) Place item(s) in Backpack.\n4) %s + %s on Backpack to put on back."、
-	"info.camsbackpacks.more_info"： "按 %s 获取说明"、
-	"info.camsbackpacks.backpack_pos"： "Backpack placed at [%s, %s, %s]"、
+	"info.camsbackpacks.instructions"： "1) Take off Elytra/Chestplate.\n2) Place Backpack on ground.\n3) Place item(s) in Backpack.\n4) %s + %s on Backpack to put on back.",
+	"info.camsbackpacks.more_info"： "按 %s 获取说明",
+	"info.camsbackpacks.backpack_pos"： "放置在的背包 [%s, %s, %s]",
 
 	// 块
-	"block.camsbackpacks.white_backpack"： "白色背包"、
-	"block.camsbackpacks.orange_backpack"： "橙色背包"、
-	"block.camsbackpacks.magenta_backpack"： "洋红色背包"、
-	"block.camsbackpacks.light_blue_backpack"： "浅蓝色背包"、
-	"block.camsbackpacks.yellow_backpack"： "黄色背包"、
-	"block.camsbackpacks.lime_backpack"： "石灰色背包"、
-	"block.camsbackpacks.pink_backpack"： "粉色背包"、
-	"block.camsbackpacks.gray_backpack"： "灰色背包"、
-	"block.camsbackpacks.light_gray_backpack"： "浅灰色背包"、
-	"block.camsbackpacks.cyan_backpack"： "青色背包"、
-	"block.camsbackpacks.purple_backpack"： "紫色背包"、
-	"block.camsbackpacks.blue_backpack"： "蓝色背包"、
-	"block.camsbackpacks.brown_backpack"： "棕色背包"、
+	"block.camsbackpacks.white_backpack"： "白色背包",
+	"block.camsbackpacks.orange_backpack"： "橙色背包",
+	"block.camsbackpacks.magenta_backpack"： "洋红色背包",
+	"block.camsbackpacks.light_blue_backpack"： "浅蓝色背包",
+	"block.camsbackpacks.yellow_backpack"： "黄色背包",
+	"block.camsbackpacks.lime_backpack"： "石灰色背包",
+	"block.camsbackpacks.pink_backpack"： "粉色背包",
+	"block.camsbackpacks.gray_backpack"： "灰色背包",
+	"block.camsbackpacks.light_gray_backpack"： "浅灰色背包",
+	"block.camsbackpacks.cyan_backpack"： "青色背包",
+	"block.camsbackpacks.purple_backpack"： "紫色背包",
+	"block.camsbackpacks.blue_backpack"： "蓝色背包",
+	"block.camsbackpacks.brown_backpack"： "棕色背包",
 	"block.camsbackpacks.green_backpack"： "绿色背包
 	"block.camsbackpacks.red_backpack"： "红色背包", "block.camsbackpacks.green_backpack": "绿色背包", "block.camsbackpacks.red_backpack "红色背包
-	"block.camsbackpacks.black_backpack"： "黑色背包"、
-	"block.camsbackpacks.gay_pride_backpack"： "同志骄傲背包"、
-	"block.camsbackpacks.lesbian_pride_backpack"： "女同性恋骄傲背包"： "女同性恋骄傲背包"、
-	"block.camsbackpacks.qpoc_pride_backpack"： "有色人种同性恋骄傲背包"、
-	"block.camsbackpacks.bi_pride_backpack"： "双性恋骄傲背包"、
-	"block.camsbackpacks.pan_pride_backpack"： Pan Pride Backpack"："Pan Pride 背包"、
-	"block.camsbackpacks.trans_pride_backpack"： "跨骄傲背包"、
-	"block.camsbackpacks.genderqueer_pride_backpack"："Genderqueer Pride Backpack"： Genderqueer Pride Backpack"："Genderqueer Pride Backpack"、
-	"block.camsbackpacks.genderfluid_pride_backpack"： "性别流自豪背包"： genderfluid Pride Backpack"："Genderqueer Pride Backpack"、
-	"block.camsbackpacks.enby_pride_backpack"： Enby Pride Backpack"："恩比骄傲背包"、
-	"block.camsbackpacks.ace_pride_backpack"： "王牌荣耀背包"、
-	"block.camsbackpacks.demi_pride_backpack"： Demi Pride Backpack"："Demi Pride 背包"、
-	"block.camsbackpacks.aro_pride_backpack"： Aro Pride Backpack"："Aro Pride 背包"、
-	"block.camsbackpacks.agender_pride_backpack"： "Agender Pride Backpack"、
+	"block.camsbackpacks.black_backpack"： "黑色背包",
+	"block.camsbackpacks.gay_pride_backpack"： "同志骄傲背包",
+	"block.camsbackpacks.lesbian_pride_backpack"： "女同性恋骄傲背包"： "女同性恋骄傲背包",
+	"block.camsbackpacks.qpoc_pride_backpack"： "有色人种同性恋骄傲背包",
+	"block.camsbackpacks.bi_pride_backpack"： "双性恋骄傲背包",
+	"block.camsbackpacks.pan_pride_backpack"： Pan Pride Backpack"："Pan Pride 背包",
+	"block.camsbackpacks.trans_pride_backpack"： "跨骄傲背包",
+	"block.camsbackpacks.genderqueer_pride_backpack"："Genderqueer Pride Backpack"： Genderqueer Pride Backpack"："Genderqueer Pride Backpack",
+	"block.camsbackpacks.genderfluid_pride_backpack"： "性别流自豪背包"： genderfluid Pride Backpack"："Genderqueer Pride Backpack",
+	"block.camsbackpacks.enby_pride_backpack"： Enby Pride Backpack"："恩比骄傲背包",
+	"block.camsbackpacks.ace_pride_backpack"： "王牌荣耀背包",
+	"block.camsbackpacks.demi_pride_backpack"： Demi Pride Backpack"："Demi Pride 背包",
+	"block.camsbackpacks.aro_pride_backpack"： Aro Pride Backpack"："Aro Pride 背包",
+	"block.camsbackpacks.agender_pride_backpack"： "Agender Pride Backpack",
 
 	// 容器内容
-	"container.camsbackpacks.equip"： "Equip"、
-	"container.camsbackpacks.unequip"： "Unequip"、
-	"container.camsbackpacks.obstructed_block"： "玩家前方有障碍物！"、
-	"container.camsbackpacks.cant_equip"： "你背上已经有东西了！"、
-	"container.camsbackpacks.player_inv"： "库存"、
-	"container.camsbackpacks.backpack_inv"： "背包"、
+	"container.camsbackpacks.equip"： "Equip",
+	"container.camsbackpacks.unequip"： "Unequip",
+	"container.camsbackpacks.obstructed_block"： "玩家前方有障碍物！",
+	"container.camsbackpacks.cant_equip"： "你背上已经有东西了！",
+	"container.camsbackpacks.player_inv"： "库存",
+	"container.camsbackpacks.backpack_inv"： "背包",
 
 	// 错误信息
-	"error.camsbackpacks.permission_place_at"： "You do not have permission to place a backpack at this location!"、
-	"error.camsbackpacks.permission_pickup_at"： "您没有权限在此位置拾取背包！"、
-	"error.camsbackpacks.permission_use"： "您没有使用此背包的权限！"、
-	"error.camsbackpacks.chest_slot_ui_disabled"： "胸槽用户界面在此服务器上已禁用！请将背包放在地上打开。"、
+	"error.camsbackpacks.permission_place_at"： "You do not have permission to place a backpack at this location!",
+	"error.camsbackpacks.permission_pickup_at"： "您没有权限在此位置拾取背包！",
+	"error.camsbackpacks.permission_use"： "您没有使用此背包的权限！",
+	"error.camsbackpacks.chest_slot_ui_disabled"： "胸槽用户界面在此服务器上已禁用！请将背包放在地上打开。",
 
 	// 配置
-	"config_category.camsbackpacks.client"： "客户端"、
-	"config.camsbackpacks.sneakPlaceBackpack"： "Enable Sneak-Placing Backpacks"、
+	"config_category.camsbackpacks.client"： "客户端",
+	"config.camsbackpacks.sneakPlaceBackpack"： "Enable Sneak-Placing Backpacks",
 	"config.camsbackpacks.allowInventoryGui"： "允许在装备时使用背包"： "允许在装备时使用背包"
-} 使用www.DeepL.com/Translator翻译（免费版）
+}
